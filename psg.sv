@@ -1,3 +1,9 @@
+/* psg.sv
+ * Programmable Sound Generator
+ * Sega Master System
+ * Celeste Neary, Jeremy Sonpar, & Suzz Glennon
+ */
+
 module psg
   (output logic [15:0] led,
    output logic ampPWM, ampSD,

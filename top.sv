@@ -1,3 +1,9 @@
+/* top.sv
+ * Project Top Module
+ * Sega Master System
+ * Celeste Neary, Jeremy Sonpar, & Suzz Glennon
+ */
+
 module top
     (input logic clk,
     input logic btnCpuReset,
